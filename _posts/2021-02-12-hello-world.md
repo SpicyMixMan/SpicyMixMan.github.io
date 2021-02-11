@@ -7,7 +7,7 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 随笔
 ---
 
-> Transform your plain text into static websites and blogs.
+> 跨年咯！
 
 ### 牛年大吉
 
